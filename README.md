@@ -25,12 +25,6 @@ TextEncryptionTool/
 pip install pycryptodome
 ```
 
-Or install from the requirements file:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Run the Application
 
 ```bash
